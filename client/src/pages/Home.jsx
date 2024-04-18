@@ -56,10 +56,8 @@ function Home() {
           place with ease
         </h1>
         <div className="text-gray-400 text-xs sm:text-sm">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
-          suscipit nulla itaque, <br />
-          sint accusantium necessitatibus quasi culpa et ipsum? Quaerat rem aut
-          maiores.
+        EliteState will help you find your home fast, easy and comfortable.
+Our expert support are always available.
         </div>
         <Link
           to={"/search"}
